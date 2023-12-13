@@ -1,4 +1,4 @@
-# Web bán điện thoại
+# Web bán điện thoại - Group 15th
 
 Đồ án môn thiết kế web, web tĩnh, đề tài trang web bán điện thoại.
 
