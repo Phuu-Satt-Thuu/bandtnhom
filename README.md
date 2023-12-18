@@ -4,6 +4,8 @@
 
 Giao diện thân thiện, dễ sử dụng, chức năng khá đầy đủ.
 
+Web bán điện thoại, với các chức năng đăng nhập, đăng kí, giỏ hàng, mua hàng, trang quản lý đầy đủ, lưu trữ hoàn toàn bằng localstorage ...
+
 Chức năng **Cơ bản**:
 
 - Trang chủ hiển thị đẹp, các sản phẩm được chia theo nhiều tiêu chí: nổi bật, mới, khuyến mãi, giá rẻ, .. 
